@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="77mm"
+   height="41mm"
+   viewBox="0 0 272.83449 145.27551"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="iniciales.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4183">
+      <stop
+         style="stop-color:#0080c6;stop-opacity:1;"
+         offset="0"
+         id="stop4185" />
+      <stop
+         style="stop-color:#0080c6;stop-opacity:0;"
+         offset="1"
+         id="stop4187" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="111.42846 : 89.038192 : 1"
+       inkscape:vp_y="0 : 999.99938 : 0"
+       inkscape:vp_z="855.52263 : 89.038193 : 1"
+       inkscape:persp3d-origin="483.47552 : -86.355425 : 1"
+       id="perspective4156" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4183"
+       id="radialGradient4189"
+       cx="341.42856"
+       cy="530.93365"
+       fx="341.42856"
+       fy="530.93365"
+       r="216.91428"
+       gradientTransform="matrix(1,0,0,0.48630138,218.05247,729.08648)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4899187"
+     inkscape:cx="136.41732"
+     inkscape:cy="72.637795"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     units="mm"
+     width="209mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-907.08723)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     transform="translate(0,-907.08723)">
+    <g
+       id="g4193"
+       transform="translate(-218.05247,450.74069)">
+      <rect
+         y="426.64792"
+         x="114.28571"
+         height="208.57143"
+         width="431.42856"
+         id="rect4180"
+         style="fill:url(#radialGradient4189);fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31499999" />
+      <text
+         transform="scale(0.90826001,1.1010063)"
+         sodipodi:linespacing="125%"
+         id="text3336"
+         y="513.5462"
+         x="247.81612"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.24375153px;line-height:125%;font-family:Luminari;-inkscape-font-specification:'Luminari, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:#09d63c;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31499999"
+         xml:space="preserve"><tspan
+           style="fill:#008000;fill-opacity:1;stroke:#09d63c;stroke-opacity:0.31499999"
+           y="513.5462"
+           x="247.81612"
+           id="tspan3338"
+           sodipodi:role="line">IAGP</tspan></text>
+    </g>
+  </g>
+</svg>

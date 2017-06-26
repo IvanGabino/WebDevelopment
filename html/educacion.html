@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Hoja de vida Ivan Gabino</title>
+</head>
+<header>
+  <svg>
+    <image xlink:href="../img/iniciales.svg" width="200px" heigh="200px"></image>
+  </svg>
+  <h1>Hoja de vida</h1>
+  <h2>Iván Alejandro Gabino Pacheco</h2>
+  <h3>Fecha de nacimiento: 13/Sept/1982</h3>
+  <h3>Lugar de nacimiento: Ciudad de México</h3>
+</header>
+<body>
+  <a href="../index.html">Inicio</a></br>
+  <a href="experiencia.html">Experiencia</a>
+  <h2>Educación</h2>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Año</th>
+        <th>Institución</th>
+        <th>Lugar</th>
+        <th>¿Culminó?</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>2005</td>
+          <td>ITESM CEM</td>
+          <td>Estado de México</td>
+          <td>Si</td>
+        </tr>
+        <tr>
+          <td>2014</td>
+          <td>ITESM CSF</td>
+          <td>Ciudad de México</td>
+          <td>Si</td>
+        </tr>
+    </tbody>
+  </table>
+  <h2>Agregar estudios</h2>
+  <form class="" action="index.html" method="post">
+    <p>
+      <label for="Ano">Año</label>
+      <select name="Ano">
+        <option>2000</option>
+        <option>2001</option>
+        <option>2002</option>
+        <option>2003</option>
+        <option>2004</option>
+        <option>2005</option>
+        <option>2006</option>
+        <option>2007</option>
+        <option>2008</option>
+        <option>2009</option>
+        <option>2010</option>
+        <option>2011</option>
+        <option>2012</option>
+        <option>2013</option>
+        <option>2014</option>
+        <option>2015</option>
+        <option>2016</option>
+        <option>2017</option>
+        </optgroup>
+      </select>
+    </p>
+    <p>
+      <label for="institucion">Institución: </label>
+      <input type="text" name="institucion" placeholder="Ej:UNAM" required>
+    </p>
+    <p>
+      <label for="lugar">Lugar: </label>
+      <textarea name="lugar" rows="2" placeholder="Ej:Ciudad de México" required></textarea>
+    </p>
+    <p>
+      <label for="culmino">¿Culminó?: </label>
+      <input type="radio" name="culmino" value="si">Si
+      <input type="radio" name="culmino" value="no">No
+    </p>
+    <p>
+      <input type="submit" Value="Enviar">
+    </p>
+  </form>
+</body>
+<footer>
+  <h4>Contacto</h4>
+    <p>E-mail: igabino@gmail.com<br/>
+      Teléfono: 5523041213<br/>
+      Dirección: Essex 14 Bosques del lago, Cuautitlán Izcalli CP 54766, Edo. Mex.
+    </p>
+</footer>
+</html>
